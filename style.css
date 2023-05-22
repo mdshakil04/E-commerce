@@ -1,0 +1,42 @@
+.feature-container{
+    display: flex;
+    margin: 30px;
+    padding: 20px;
+    height: auto;
+    font-size: large;
+    font-weight: 600;
+}
+
+.fashion-container{
+    background-image: url(img/carousel-1.jpg);
+    justify-content: center;
+    background-size: 100% 100%;
+    color: white;
+    width: 60%;
+    margin: 20px;
+    padding-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+.offer-container{
+    padding: inherit;
+    align-items: center;
+    width: 40%;
+}
+.special-offer1{
+    background-image: url(img/offer-1.jpg);
+    color: white;
+    background-size: 100% 100%;
+    text-align: center;  
+    padding: inherit;
+    margin: inherit;
+}
+.special-offer2{
+    background-image: url(img/offer-2.jpg);
+    color: white;
+    background-size: 100% 100%;
+    text-align: center;  
+    padding: inherit;
+    margin-top: 20px;
+}
